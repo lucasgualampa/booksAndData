@@ -1,2 +1,4 @@
 # booksAndData
-Integrative project for BI consultant.
+
+Pre entrega del proyecto integrador.
+Se recomienda ejecutar los bloques de manera secuencial
